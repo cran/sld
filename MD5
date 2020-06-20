@@ -1,7 +1,7 @@
-63df6cd216366dcd8cabdc91730027a3 *Changelog
-88aad19e2c4bea20765e4eed475d69d7 *DESCRIPTION
-9863794b1a55567fc49a6f5ca8af385c *NAMESPACE
-d037b7c45ccfb626f2026107c062d887 *NEWS
+f8f007ab6933b168978282834338e4c7 *Changelog
+19ba07747ef4d078e32bc0941d2fc134 *DESCRIPTION
+2aaf97802a7b605c39ffb55f74d10e9c *NAMESPACE
+f54e403acfa57c81dc8c4a0793bbbf0b *NEWS
 aa73980fbb9e18063cacba25864c305a *R/CheckParameters.R
 606a58782508e44bae141633d4a2da34 *R/fit.R
 ab95607b30d304fb1df9d3039094db0e *R/fxsld.R
@@ -14,8 +14,9 @@ de0f4eb04b2de761c9e50af19d97dfbb *data/PCB.RData
 cce310f2ebef93d87953eb90f7139cd9 *data/PCB1.RData
 13eaa11eb616cb062344333037cbb8f2 *man/PCB.Rd
 838e784a337fd8e4c768e4bdd331ab77 *man/fit.Rd
-8b913aaa6f0c38894d125aa799e6ef6f *man/lmom.Rd
+2cc945fb5085af3df7356730bf38e33d *man/lmom.Rd
 62caedcb252ccb3b2d8a0e5024508c9a *man/plotsl.Rd
 e354f968f2b06d7dd3641212d072abd9 *man/qbSLD.Rd
 c6dac9a83b6f4d0a52c35c5526cd3dbb *man/qqsl.Rd
 2bbd56bf6ca779933d70386c382d538d *src/sld.fx.c
+4cbca81cfff1a47c0cf9012ce80e3842 *src/sld_init.c

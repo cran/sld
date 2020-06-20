@@ -1,12 +1,18 @@
 Package: sld
-Version: 0.3.2
-Date: 2016-04-29
+Version: 0.3.3
+Date: 2020-06-20
 Title: Estimation and Use of the Quantile-Based Skew Logistic
         Distribution
 Depends: stats, lmom
 Suggests: graphics
-Author: Robert King <Robert.King@newcastle.edu.au>, Paul van Staden <paul.vanstaden@up.ac.za>
-Maintainer: Robert King <Robert.King@newcastle.edu.au>
+Authors@R: 
+  c(person(given="Robert",family="King",
+      role=c("aut","cre"),
+      email="Robert.King@newcastle.edu.au",
+      comment=c(ORCID="0000-0001-7495-6599")),
+    person(given="Paul",family="van Staden",
+      role="aut")
+    )
 Description: The skew logistic distribution is a quantile-defined generalisation
  of the logistic distribution (van Staden and King 2015).  Provides random 
  numbers, quantiles, probabilities, densities and density quantiles for the distribution.
@@ -15,6 +21,9 @@ Description: The skew logistic distribution is a quantile-defined generalisation
 License: GPL (>= 2)
 URL: http://tolstoy.newcastle.edu.au/~rking/SLD/
 NeedsCompilation: yes
-Packaged: 2016-05-02 20:02:57 UTC; robertking
+Packaged: 2020-06-20 10:41:17 UTC; robertking
+Author: Robert King [aut, cre] (<https://orcid.org/0000-0001-7495-6599>),
+  Paul van Staden [aut]
+Maintainer: Robert King <Robert.King@newcastle.edu.au>
 Repository: CRAN
-Date/Publication: 2016-05-05 01:37:57
+Date/Publication: 2020-06-20 11:20:02 UTC
